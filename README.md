@@ -1,2 +1,2 @@
-#[Live demo](https://silvermachine777.github.io/p5js-laboratory1/)
+# [Live demo](https://silvermachine777.github.io/p5js-laboratory1/)
 
